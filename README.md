@@ -63,5 +63,5 @@ The aim is to **help decision-makers identify revenue opportunities** and reduce
 📍 B.Tech Student, MIT ADT University  
 💼 Data Enthusiast | Power BI | Analytics  
 
-🔗 [Connect with me on LinkedIn](aryan-kumar-68186b24b)  
+🔗 [Connect with me on LinkedIn]([aryan-kumar-68186b24b](https://www.linkedin.com/in/aryan-kumar-68186b24b/))  
 #PowerBI #DataAnalytics #Ecommerce #Dashboard #GitHubProjects #BusinessIntelligence
