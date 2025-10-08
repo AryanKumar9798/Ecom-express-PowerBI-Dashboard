@@ -7,7 +7,7 @@ A Power BI dashboard analyzing e-commerce sales metrics such as total revenue, A
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](https://github.com/AryanKumar/EcomExpressDashboard/blob/main/Dashboard_Overview.png)
+![Dashboard Screenshot]()
 
 
 ---
